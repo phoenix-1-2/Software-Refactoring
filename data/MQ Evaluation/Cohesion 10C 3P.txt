@@ -1,0 +1,26 @@
+E; class; class1
+E; class; class2
+E; class; class3
+E; class; class4
+E; class; class5
+E; class; class6
+E; class; class7
+E; class; class8
+E; package; package1
+E; package; package2
+R; depends-to; class1; class2
+R; depends-to; class1; class5
+R; depends-to; class5; class2
+R; depends-to; class5; class6
+R; depends-to; class6; class3
+R; depends-to; class3; class7
+R; depends-to; class7; class4
+R; depends-to; class4; class8
+R; pertains-to; class1; package1
+R; pertains-to; class2; package1
+R; pertains-to; class3; package1
+R; pertains-to; class4; package1
+R; pertains-to; class5; package1
+R; pertains-to; class6; package2
+R; pertains-to; class7; package2
+R; pertains-to; class8; package2

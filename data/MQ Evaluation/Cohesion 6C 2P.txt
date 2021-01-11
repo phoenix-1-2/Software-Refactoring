@@ -1,0 +1,11 @@
+E; class; class1
+E; class; class2
+E; class; class3
+E; class; class4
+E; class; class5
+E; class; class6
+E; package; package1
+E; package; package2
+R; depends-to; class1; class2
+R; depends-to; class3; class4
+R; depends-to; class5; class6

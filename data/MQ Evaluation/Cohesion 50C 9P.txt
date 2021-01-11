@@ -1,0 +1,316 @@
+E; class; class1
+E; class; class2
+E; class; class3
+E; class; class4
+E; class; class5
+E; class; class6
+E; class; class7
+E; class; class8
+E; class; class9
+E; class; class10
+E; class; class11
+E; class; class12
+E; class; class13
+E; class; class14
+E; class; class15
+E; class; class16
+E; class; class17
+E; class; class18
+E; class; class19
+E; class; class20
+E; class; class21
+E; class; class22
+E; class; class23
+E; class; class24
+E; class; class25
+E; class; class26
+E; class; class27
+E; class; class28
+E; class; class29
+E; class; class30
+E; class; class31
+E; class; class32
+E; class; class33
+E; class; class34
+E; class; class35
+E; class; class36
+E; class; class37
+E; class; class38
+E; class; class39
+E; class; class40
+E; class; class41
+E; class; class42
+E; class; class43
+E; class; class44
+E; class; class45
+E; class; class46
+E; class; class47
+E; class; class48
+E; class; class49
+E; class; class50
+E; package; package1
+E; package; package2
+E; package; package3
+E; package; package4
+E; package; package5
+E; package; package6
+E; package; package7
+E; package; package8
+E; package; package9
+R; depends-to; class1; class47
+R; depends-to; class2; class1
+R; depends-to; class2; class14
+R; depends-to; class2; class20
+R; depends-to; class2; class45
+R; depends-to; class2; class34
+R; depends-to; class2; class10
+R; depends-to; class2; class11
+R; depends-to; class3; class4
+R; depends-to; class3; class11
+R; depends-to; class3; class31
+R; depends-to; class3; class24
+R; depends-to; class3; class22
+R; depends-to; class3; class21
+R; depends-to; class4; class16
+R; depends-to; class5; class7
+R; depends-to; class7; class21
+R; depends-to; class7; class17
+R; depends-to; class7; class34
+R; depends-to; class7; class2
+R; depends-to; class7; class30
+R; depends-to; class7; class42
+R; depends-to; class8; class3
+R; depends-to; class8; class17
+R; depends-to; class9; class42
+R; depends-to; class9; class44
+R; depends-to; class9; class35
+R; depends-to; class9; class21
+R; depends-to; class9; class26
+R; depends-to; class9; class23
+R; depends-to; class10; class5
+R; depends-to; class10; class42
+R; depends-to; class10; class43
+R; depends-to; class10; class16
+R; depends-to; class10; class9
+R; depends-to; class10; class17
+R; depends-to; class10; class18
+R; depends-to; class11; class46
+R; depends-to; class11; class18
+R; depends-to; class12; class42
+R; depends-to; class12; class33
+R; depends-to; class12; class34
+R; depends-to; class12; class9
+R; depends-to; class13; class3
+R; depends-to; class13; class50
+R; depends-to; class13; class8
+R; depends-to; class13; class45
+R; depends-to; class13; class29
+R; depends-to; class13; class12
+R; depends-to; class14; class2
+R; depends-to; class14; class11
+R; depends-to; class14; class8
+R; depends-to; class14; class31
+R; depends-to; class14; class9
+R; depends-to; class14; class4
+R; depends-to; class16; class34
+R; depends-to; class16; class15
+R; depends-to; class17; class25
+R; depends-to; class17; class10
+R; depends-to; class17; class18
+R; depends-to; class17; class24
+R; depends-to; class18; class20
+R; depends-to; class18; class23
+R; depends-to; class18; class11
+R; depends-to; class18; class15
+R; depends-to; class19; class31
+R; depends-to; class19; class40
+R; depends-to; class19; class8
+R; depends-to; class19; class29
+R; depends-to; class19; class16
+R; depends-to; class19; class23
+R; depends-to; class19; class11
+R; depends-to; class20; class23
+R; depends-to; class20; class19
+R; depends-to; class20; class1
+R; depends-to; class20; class30
+R; depends-to; class20; class14
+R; depends-to; class21; class10
+R; depends-to; class21; class7
+R; depends-to; class21; class44
+R; depends-to; class21; class26
+R; depends-to; class21; class18
+R; depends-to; class22; class29
+R; depends-to; class22; class14
+R; depends-to; class22; class7
+R; depends-to; class22; class50
+R; depends-to; class22; class26
+R; depends-to; class23; class14
+R; depends-to; class23; class37
+R; depends-to; class23; class28
+R; depends-to; class23; class36
+R; depends-to; class23; class41
+R; depends-to; class23; class1
+R; depends-to; class24; class35
+R; depends-to; class24; class46
+R; depends-to; class24; class39
+R; depends-to; class24; class14
+R; depends-to; class24; class40
+R; depends-to; class24; class13
+R; depends-to; class24; class30
+R; depends-to; class25; class50
+R; depends-to; class25; class12
+R; depends-to; class25; class23
+R; depends-to; class26; class18
+R; depends-to; class26; class15
+R; depends-to; class26; class11
+R; depends-to; class27; class12
+R; depends-to; class27; class15
+R; depends-to; class27; class35
+R; depends-to; class27; class21
+R; depends-to; class27; class18
+R; depends-to; class27; class48
+R; depends-to; class27; class38
+R; depends-to; class28; class30
+R; depends-to; class28; class18
+R; depends-to; class28; class7
+R; depends-to; class28; class47
+R; depends-to; class28; class21
+R; depends-to; class28; class41
+R; depends-to; class29; class14
+R; depends-to; class29; class15
+R; depends-to; class29; class33
+R; depends-to; class29; class1
+R; depends-to; class29; class22
+R; depends-to; class29; class2
+R; depends-to; class30; class5
+R; depends-to; class30; class36
+R; depends-to; class30; class9
+R; depends-to; class30; class3
+R; depends-to; class30; class16
+R; depends-to; class31; class19
+R; depends-to; class31; class35
+R; depends-to; class31; class47
+R; depends-to; class31; class48
+R; depends-to; class31; class23
+R; depends-to; class32; class46
+R; depends-to; class32; class50
+R; depends-to; class32; class36
+R; depends-to; class32; class43
+R; depends-to; class32; class33
+R; depends-to; class32; class26
+R; depends-to; class32; class23
+R; depends-to; class33; class22
+R; depends-to; class33; class17
+R; depends-to; class33; class5
+R; depends-to; class33; class37
+R; depends-to; class33; class36
+R; depends-to; class34; class35
+R; depends-to; class34; class44
+R; depends-to; class34; class2
+R; depends-to; class34; class31
+R; depends-to; class35; class8
+R; depends-to; class35; class29
+R; depends-to; class35; class39
+R; depends-to; class35; class28
+R; depends-to; class36; class21
+R; depends-to; class36; class48
+R; depends-to; class36; class16
+R; depends-to; class37; class36
+R; depends-to; class37; class10
+R; depends-to; class37; class11
+R; depends-to; class37; class42
+R; depends-to; class37; class21
+R; depends-to; class38; class26
+R; depends-to; class38; class34
+R; depends-to; class39; class12
+R; depends-to; class40; class42
+R; depends-to; class40; class13
+R; depends-to; class40; class19
+R; depends-to; class40; class10
+R; depends-to; class40; class7
+R; depends-to; class41; class20
+R; depends-to; class41; class16
+R; depends-to; class41; class3
+R; depends-to; class41; class23
+R; depends-to; class41; class12
+R; depends-to; class42; class45
+R; depends-to; class42; class36
+R; depends-to; class42; class22
+R; depends-to; class42; class39
+R; depends-to; class42; class24
+R; depends-to; class42; class49
+R; depends-to; class43; class24
+R; depends-to; class43; class38
+R; depends-to; class43; class35
+R; depends-to; class44; class10
+R; depends-to; class45; class22
+R; depends-to; class45; class32
+R; depends-to; class45; class15
+R; depends-to; class46; class26
+R; depends-to; class46; class1
+R; depends-to; class47; class1
+R; depends-to; class47; class38
+R; depends-to; class48; class3
+R; depends-to; class48; class32
+R; depends-to; class48; class21
+R; depends-to; class48; class26
+R; depends-to; class48; class37
+R; depends-to; class48; class27
+R; depends-to; class49; class11
+R; depends-to; class49; class22
+R; depends-to; class49; class45
+R; depends-to; class49; class5
+R; depends-to; class50; class12
+R; depends-to; class50; class42
+R; depends-to; class50; class33
+R; depends-to; class50; class5
+R; pertains-to; class1; package5
+R; pertains-to; class2; package1
+R; pertains-to; class3; package5
+R; pertains-to; class4; package2
+R; pertains-to; class5; package5
+R; pertains-to; class6; package9
+R; pertains-to; class7; package5
+R; pertains-to; class8; package5
+R; pertains-to; class9; package7
+R; pertains-to; class10; package3
+R; pertains-to; class11; package6
+R; pertains-to; class12; package7
+R; pertains-to; class13; package7
+R; pertains-to; class14; package2
+R; pertains-to; class15; package6
+R; pertains-to; class16; package4
+R; pertains-to; class17; package7
+R; pertains-to; class18; package5
+R; pertains-to; class19; package8
+R; pertains-to; class20; package3
+R; pertains-to; class21; package3
+R; pertains-to; class22; package9
+R; pertains-to; class23; package2
+R; pertains-to; class24; package9
+R; pertains-to; class25; package4
+R; pertains-to; class26; package9
+R; pertains-to; class27; package8
+R; pertains-to; class28; package3
+R; pertains-to; class29; package1
+R; pertains-to; class30; package1
+R; pertains-to; class31; package6
+R; pertains-to; class32; package1
+R; pertains-to; class33; package1
+R; pertains-to; class34; package9
+R; pertains-to; class35; package3
+R; pertains-to; class36; package8
+R; pertains-to; class37; package7
+R; pertains-to; class38; package8
+R; pertains-to; class39; package4
+R; pertains-to; class40; package4
+R; pertains-to; class41; package7
+R; pertains-to; class42; package1
+R; pertains-to; class43; package4
+R; pertains-to; class44; package3
+R; pertains-to; class45; package6
+R; pertains-to; class46; package5
+R; pertains-to; class47; package9
+R; pertains-to; class48; package9
+R; pertains-to; class49; package9
+R; pertains-to; class50; package7
