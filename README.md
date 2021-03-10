@@ -98,6 +98,13 @@ To execute the NSGA-II with  three objectives STRIKE, TC and %Non-Gaps (MOSAStrE
 
 ````
 java -cp target/jMetalMSA-1.0-SNAPSHOT-jar-with-dependencies.jar org.uma.jmetalmsa.runner.MOSAStrERunnerBAliBASE balibaseProblemName dataDirectory NumberOfEvaluations PopulationSize
+
+## Results 
+![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
+![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
+![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
+
+
 ```
 * balibaseProblemName: the BAliBASE instance name, for instance `BB12001`. 
 * dataDirectory: The Path that contains the Structural Information files (PDB's (*.pdb) and Strike Contact Matrix (*.contacts)) of the sequences to align and the Pre-Computed alignments to use to generate the Initial population of the algorithm.  
