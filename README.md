@@ -4,6 +4,10 @@
 
 jMetalMSA is an Open source software tool aimed at solving multiple sequence alignment (MSA) problems by using multi-objective metaheuristics. It is based on the jMetal multi-objective framework, which is extended with an encoding for representing MSA solutions. 
 
+
+
+
+
 ##Architecture of jMetalMSA
 
 ![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
@@ -12,6 +16,12 @@ The object-oriented architecture of jMetalMSA is shown in Figure above, is compo
 (Java interfaces). Three of them (MSAProblem, MSAAlgorithm, and MSASolution) inherits from their
 counterparts in [jMetal](https://github.com/jMetal/jMetal) (the inheritance relationships are omitted in the diagram), and there is a class Score to represent a
 given MSA scoring function.
+
+
+## OUTPUT ON EXECUTION  
+![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
+![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
+![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
 
 ## Summary of features
 
@@ -98,12 +108,6 @@ To execute the NSGA-II with  three objectives STRIKE, TC and %Non-Gaps (MOSAStrE
 
 ````
 java -cp target/jMetalMSA-1.0-SNAPSHOT-jar-with-dependencies.jar org.uma.jmetalmsa.runner.MOSAStrERunnerBAliBASE balibaseProblemName dataDirectory NumberOfEvaluations PopulationSize
-
-## Results 
-![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
-![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
-![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
-
 
 ```
 * balibaseProblemName: the BAliBASE instance name, for instance `BB12001`. 
