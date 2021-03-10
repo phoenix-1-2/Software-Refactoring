@@ -19,9 +19,9 @@ given MSA scoring function.
 
 
 ## OUTPUT ON EXECUTION  
-![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
-![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
-![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
+![alt tag](https://github.com/phoenix-1-2/Software-Refactoring/blob/main/assets/Output2.png)
+![alt tag](https://github.com/phoenix-1-2/Software-Refactoring/blob/main/assets/Output3.png)
+![alt tag](https://github.com/phoenix-1-2/Software-Refactoring/blob/main/assets/Output1.png)
 
 ## Summary of features
 
