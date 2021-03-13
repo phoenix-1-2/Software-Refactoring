@@ -8,7 +8,7 @@ jMetalMSA is an Open source software tool aimed at solving multiple sequence ali
 
 
 
-##Architecture of jMetalMSA
+## Architecture of jMetalMSA
 
 ![alt tag](https://github.com/jMetal/jMetalMSA/blob/master/architecture/jmetalmsaarchitecture.png)
 
